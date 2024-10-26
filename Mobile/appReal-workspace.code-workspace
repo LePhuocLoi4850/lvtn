@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "ct48402-project-Hienb2014833",
+			"path": "C:/Users/lephu/Downloads/ct48402-project-Hienb2014833"
+		},
+		{
+			"name": "chatbot",
+			"path": "aaaaaaaaaaa/chatbot"
+		},
+		{
+			"name": "Demo",
+			"path": "../TTTT/app/Demo"
+		},
+		{
+			"name": "myapp",
+			"path": "../TTTT/app/myapp"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "myapp"
+	}
+}
